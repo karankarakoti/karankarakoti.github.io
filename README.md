@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
+  <a href="https://github.com/karankarakoti"><img alt="LinkedIn" src="https://img.shields.io/badge/Github-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/karan-karakoti-285511176/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karankarakoti@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/_.night._.dreamer._"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
