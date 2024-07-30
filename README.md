@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/karan-karakoti-285511176/" target="_blank"> Karan Karakoti </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+🚀" /> </h3>
 
@@ -11,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://github.com/karankarakoti"><img alt="LinkedIn" src="https://img.shields.io/badge/Github-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/karan-karakoti-285511176/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karankarakoti@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/_.night._.dreamer._"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -83,3 +83,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarakoti&show_icons=true&theme=light&locale=en&layout=compact" alt="karankarakoti" />
   </p>
  </div>
+ 
+### Thank you for the visit.
+![](http://profile-counter.glitch.me/karankarakoti/count.svg)
